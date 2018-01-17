@@ -1,0 +1,14 @@
+.container{
+	margin-top: 1%;
+}
+
+.form-fields{
+	
+}
+
+[class$="-error"]{
+	color:red;
+}
+[.*-error]{
+	color:red;
+}
